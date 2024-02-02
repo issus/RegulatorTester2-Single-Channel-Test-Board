@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=DUT Pin.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=DUT Pin.SchDoc|Designator=U_Pin Decoupling|SchDesignator=U_Pin Decoupling|FileName=Pin Decoupling.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Pin Decoupling.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DUT Pin.SchDoc|Designator=U_Pin Function Relays|SchDesignator=U_Pin Function Relays|FileName=Pin Function Relays.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Pin Function Relays.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
